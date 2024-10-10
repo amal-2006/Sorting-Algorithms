@@ -22,13 +22,10 @@ To write a program to perform selection sort and insertion sort using python pro
 i)	Selection Sort
 ```
 
-
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: AMALJOSH MAADHAV J   
 RegisterNumber: 212223230012
-```
 
-```
 def selection_sort(nums):
     for i in range(len(nums)):
         lowest = i
@@ -45,13 +42,11 @@ print(list_of_nums)
 ```
 ii)	Insertion Sort
 
-''' 
+```
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: AMALJOSH MAADHAV J   
 RegisterNumber: 212223230012
-'''
 
-```
 
 def insertion_sort(nums):
     for i in range(1,len(nums)):
@@ -70,6 +65,13 @@ print(list_of_nums)
 ```
 
 ## Output:
+
+### i)
+![image](https://github.com/user-attachments/assets/7aa72a38-4e64-4af2-8b52-bc93bc0248f6)
+
+### ii)
+![image](https://github.com/user-attachments/assets/00e62f3b-37d9-4f68-83ea-bac1011625ee)
+
 
 
 ## Result:
